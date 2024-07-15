@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock the potential of your business with our innovative solutions.",
+        "title": "Transform Your Ideas into Success"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the potential of your business with our innovative solutions.",
+        "title": "Transform Your Ideas into Success"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock the potential of your business with our innovative solutions.",
+        "title": "Transform Your Ideas into Success"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock the potential of your business with our innovative solutions.",
+        "title": "Transform Your Ideas into Success"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the potential of your business with our innovative solutions.",
+        "title": "Transform Your Ideas into Success"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock the potential of your business with our innovative solutions.",
+        "title": "Transform Your Ideas into Success"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock the potential of your business with our innovative solutions.",
+        "title": "Transform Your Ideas into Success"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the potential of your business with our innovative solutions.",
+        "title": "Transform Your Ideas into Success"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Transform Your Ideas into Success",
+  "subtitle": "Unlock the potential of your business with our innovative solutions."
+}
